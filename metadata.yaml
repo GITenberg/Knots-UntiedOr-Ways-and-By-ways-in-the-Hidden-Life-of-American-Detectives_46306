@@ -1,0 +1,25 @@
+_repo: Knots-UntiedOr-Ways-and-By-ways-in-the-Hidden-Life-of-American-Detectives_46306
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46306-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McWatters, George S.
+    gutenberg_agent_id: '43713'
+    url: http://www.gutenberg.org/2009/agents/43713
+description: ''
+gutenberg_issued: '2014-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46306'
+  lccn: '10022297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detectives'
+- !lcc 'HV'
+title: Knots Untied; Or, Ways and By-ways in the Hidden Life of American Detectives
+url: http://www.gutenberg.org/ebooks/46306
